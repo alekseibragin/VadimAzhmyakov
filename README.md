@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @Vadim, nice to meet you
-- 👀 I’m interested in Computer Science, Applied Math
-THE COMPANY: DOCET TI, MOSCOW
-EMAIL: v.azhmyakov@docet.ai
+slides Hackathon-Lecture
+[LECTURE_H.pdf](https://github.com/VadimAzhmyakov/VadimAzhmyakov/files/7717737/LECTURE_H.pdf)
